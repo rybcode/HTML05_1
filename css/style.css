@@ -156,6 +156,7 @@ form input[type="text"],[type="email"],[type="password"] {
   margin: 0 50px 16px;
   padding-left: 18px;
   background-color: rgba(0, 0, 0, 0.5);
+  color: white;
 }
 ::-webkit-input-placeholder {
   color: #cccccc;
